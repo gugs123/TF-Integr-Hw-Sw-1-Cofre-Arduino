@@ -1,7 +1,11 @@
 # CONTROLE DE COFRE ELETRONICO
 
-Descrição do Projeto
+###### DESCRIÇÃO DO PROJETO
 
+O projeto foi desenvolvido para fixar todos os ensinamentos aprendidos ao longo da disciplina e foi inteiramente utilizando o simulador [Tinkercad](https://www.tinkercad.com/) e adaptado ao Arduino Mega 
+para apresentação ao professor.
+
+###### REQUISITOS DO PROJETO
 
 **I.** Desenvolva o projeto de um cofre, em escala reduzida, cujo controle das operações de 
 abertura e/ou fechamento deverão ser realizadas através de um Aduino Mega;
